@@ -1,8 +1,7 @@
 # 👨🏽‍💻 Jhonatan Souza
 **`Desenvolvedor Android`**
 
-Me chamo Jhonatan, nasci em Goianésisa - GO.
-Atualmente estudo Análise e Desenvolvimento de Sistemas na Gran Faculdade e sou apaixonado por tecnologia e gosto muito de café. 
+Meu objetivo é me tornar um Desenvolvedor Android especializado na criação de aplicativos móveis inovadores e eficientes, utilizando Kotlin e Jetpack Compose. Busco aplicar minhas habilidades em Android Studio para desenvolver soluções tecnológicas que atendam às necessidades dos usuários e contribuam para a evolução constante da área. Tudo isso, é claro, enquanto aproveito minhas doses diárias de café. ☕
 
 <p align="left">
     <a href="https://github.com/JhonatanSouzaDev?tab=repositories&sort=stargazers">
